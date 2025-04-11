@@ -1,0 +1,13 @@
+PRICING DATA ANALYST:
+
+Step 1:
+Based on this job description, what is the biggest challenge someone in this position would face day-to-day? Here is the job description for your review:   
+
+Step 2:
+You are currently working as a data analyst in the banking industry and you're applying for this pricing data analyst position at Luxottica. Write an attention-grabbing hook for your cover letter that highlights your experience and qualifications in a way that shows you empathize and can successfully take on the challenge of the pricing data analyst role. consider incorporating specific examples of how you've tackled these challenges in your past work, and explore creative ways to express your enthusiasm for the opportunity. Keep your hook within 100 words.
+
+Step 3:
+You are writing a cover letter applying for the pricing data analyst role at ----. Here's what you have so far:
+(paste the hook that was previously generated - after editing
+At the intersection of data precision and strategic insight, I’ve spent the past three years as a data analyst in the banking sector, translating complex datasets into actionable decisions that enhanced loan pricing models and improved product profitability. I know firsthand the challenges of maintaining clean data pipelines, aligning cross-functional teams, and driving results in high-stakes environments. Whether troubleshooting data quality issues or building dashboards that tell compelling stories, I thrive where detail meets big picture. I'm excited to bring that same clarity and energy to Luxottica’s pricing team—and help shape smarter, more impactful product decisions every day.)
+Finish writing the cover letter based on your resume and keep it within 250 words. Here's your resume:
